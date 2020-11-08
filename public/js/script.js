@@ -1,5 +1,3 @@
-console.log('CS JS loaded');
-
 const weatherForm = document.querySelector('#searchForm');
 const search = document.querySelector('#search');
 
